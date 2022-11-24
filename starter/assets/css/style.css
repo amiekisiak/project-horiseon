@@ -6,13 +6,16 @@
 
 body {
     background-color: #d9dcd6;
+    /*this is background color for the body*/
 }
 
 .header {
 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #024066;
+    /*This is the background color in header*/
     color: #fff
+        /*This is the font color*/
 
 }
 
@@ -21,11 +24,12 @@ body {
     display: inline-flexbox;
     font-size: 48px;
     background-color: #024066;
+    /*this is background color of the header section/
 
 }
 
 .header h1 .seo {
-    color: #fff;
+    color: #fff; /*This is the font color*/
 }
 
 .header div {
@@ -34,6 +38,7 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    /*This is the font size in header*/
 }
 
 .header div ul {
@@ -41,13 +46,14 @@ body {
 }
 
 .header div ul li {
-    display: inline-block;
+    display: inline-block; /*this allows to set the width and height on the element*/
 
 
 }
 
 a {
     color: #fff;
+    /*this is font color in header*/
     text-decoration: none;
 }
 
@@ -55,6 +61,7 @@ p {
     font-size: 16px;
 }
 
+/*hero section starts*/
 .hero {
     height: 800px;
     width: 100%;
@@ -63,6 +70,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*hero section ends*/
 
 .float-left {
     float: left;
@@ -91,6 +100,7 @@ p {
     background-color: #2589bd;
 }
 
+/*repeating selectors were combined into one class*/
 .benefit-brand,
 .benefit-cost,
 .benefit-lead {
@@ -143,8 +153,10 @@ img,
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    /*this aligns text to the center*/
 }
 
 .footer h2 {
     font-size: 20px;
+    /*this is the font size in the footer section*/
 }
