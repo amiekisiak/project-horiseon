@@ -12,6 +12,8 @@ N/A
 
 ## Usage
 
+URL website address: https://amiekisiak.github.io/project-horiseon/  GitHub Repository Address: https://github.com/amiekisiak/project-horiseon.git
+
 ![screenshot png](https://user-images.githubusercontent.com/117371691/204109752-9665c3cf-a668-42f1-86af-6d11ec0c0873.png)
 
 ## Credit
