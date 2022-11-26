@@ -13,11 +13,12 @@ N/A
 ## Usage
 
 ![screenshot png](https://user-images.githubusercontent.com/117371691/204109752-9665c3cf-a668-42f1-86af-6d11ec0c0873.png)
-  
-## Credits
+
+## Credit
 
 N/A
-  
-# License
-  
+
+## License
+
 Licensed under the MIT license
+
